@@ -31,6 +31,6 @@ o entuito deste projeto foi a pratíca de consumo de API.
 
 ### :computer: Acesso
 
-Você pode acessar esse [link]() para ver o resultado.
+Você pode acessar esse [link](https://brunomartinz.github.io/Consulta-CEP/) para ver o resultado.
 
 <br>
